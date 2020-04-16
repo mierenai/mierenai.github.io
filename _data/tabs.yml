@@ -8,5 +8,5 @@
 
 - id: faq
   name: FAQ
-  fp: tab/faq.md
+  fp: tab/faq.html
   disabled: false
