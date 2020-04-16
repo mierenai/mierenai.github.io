@@ -4,18 +4,11 @@ title: About
 permalink: /about/
 ---
 
-#### Tagline
+喜欢小萝莉...
 
-Your tagline.
+#### 官方Q群
 
-#### Introduction
-
-Introduce yourself.
-
-#### This theme
-
-This [jekyll](https://jekyllrb.com) theme is based on [materialize](http://materializecss.com). For more detail, you can view the github repo: [mumuxme/materialize-jekyll](https://github.com/mumuxme/materialize-jekyll)
-
+**9961087**，本网站严禁外传！
 
 #### License
 
@@ -29,6 +22,3 @@ As for all articles(except reference) are under [CC Attribution-ShareAlike 4.0 I
 
 - - -
 
-#### Personal information
-
-Email: {{ site.email }}
