@@ -6,7 +6,7 @@
 #   fp: tab/test.html
 #   disabled: false
 
-- id: faq
-  name: FAQ
-  fp: tab/faq.html
-  disabled: false
+# - id: faq
+#   name: FAQ
+#   fp: tab/faq.html
+#   disabled: false
